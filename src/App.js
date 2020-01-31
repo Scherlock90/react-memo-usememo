@@ -7,7 +7,6 @@ import './assets/style/App.css';
 function App() {
   const [toggle, setToggle] = useState(false);
 
-
   return (
     <div>
       <div className="container-toogle-button">
