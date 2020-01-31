@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-memo-usememo/static/css/main.59320b99.chunk.css",
+    "main.js": "/react-memo-usememo/static/js/main.387355b6.chunk.js",
+    "main.js.map": "/react-memo-usememo/static/js/main.387355b6.chunk.js.map",
+    "runtime-main.js": "/react-memo-usememo/static/js/runtime-main.87ffe22a.js",
+    "runtime-main.js.map": "/react-memo-usememo/static/js/runtime-main.87ffe22a.js.map",
+    "static/js/2.623d0d1f.chunk.js": "/react-memo-usememo/static/js/2.623d0d1f.chunk.js",
+    "static/js/2.623d0d1f.chunk.js.map": "/react-memo-usememo/static/js/2.623d0d1f.chunk.js.map",
+    "index.html": "/react-memo-usememo/index.html",
+    "precache-manifest.233e05e585dc59c2123263071d8b2ee5.js": "/react-memo-usememo/precache-manifest.233e05e585dc59c2123263071d8b2ee5.js",
+    "service-worker.js": "/react-memo-usememo/service-worker.js",
+    "static/css/main.59320b99.chunk.css.map": "/react-memo-usememo/static/css/main.59320b99.chunk.css.map",
+    "static/js/2.623d0d1f.chunk.js.LICENSE.txt": "/react-memo-usememo/static/js/2.623d0d1f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-memo-usememo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ffe22a.js",
+    "static/js/2.623d0d1f.chunk.js",
+    "static/css/main.59320b99.chunk.css",
+    "static/js/main.387355b6.chunk.js"
+  ]
+}
