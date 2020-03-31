@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import MemoAndUseMemo from './components/MemoAndUseMemo';
-import WithoutMemoAndUseMemo from './components/WithoutMemoAndUseMemo';
-import './assets/style/App.css';
+import MemoAndUseMemo from './memo-and-usememo/MemoAndUseMemo';
+import WithoutMemoAndUseMemo from './without-memo-and-usememo/WithoutMemoAndUseMemo';
+
+import '../assets/style/App.css';
 
 
 function App() {
