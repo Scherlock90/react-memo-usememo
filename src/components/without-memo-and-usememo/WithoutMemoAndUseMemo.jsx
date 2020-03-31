@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Content from '../common/content/Content';
 import MyButton from '../common/my-button/MyButton';
 
-export default function WithoutMemoAndUseMemo() {
+export default function () {
   const numbers = [5, 10, 15, 20, 25, 30];
   const [count, setCount] = useState(0);
   const [limit, setLimit] = useState(5);
