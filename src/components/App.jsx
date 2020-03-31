@@ -4,7 +4,7 @@ import WithoutMemoAndUseMemo from './without-memo-and-usememo/WithoutMemoAndUseM
 
 import '../assets/style/App.css';
 
-function App() {
+export default function () {
   const [toggle, setToggle] = useState(false);
 
   return (
@@ -22,5 +22,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

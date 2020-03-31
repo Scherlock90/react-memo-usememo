@@ -8,7 +8,7 @@ import MyButton from '../common/my-button/MyButton';
 
 const MemorizedButton = React.memo((props) => <MyButton {...props} />, () => true)
 
-function MemoAndUseMemo() {
+export default function () {
   const [count, setCount] = useState(0);
   const [limit, setLimit] = useState(5);
 
@@ -56,5 +56,3 @@ function MemoAndUseMemo() {
     />
   )
 }
-
-export default MemoAndUseMemo;
