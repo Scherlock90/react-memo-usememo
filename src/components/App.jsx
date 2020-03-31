@@ -4,7 +4,6 @@ import WithoutMemoAndUseMemo from './without-memo-and-usememo/WithoutMemoAndUseM
 
 import '../assets/style/App.css';
 
-
 function App() {
   const [toggle, setToggle] = useState(false);
 
